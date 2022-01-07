@@ -1,0 +1,31 @@
+body {
+  background-color: beige;
+  font-family: "Fira Sans", sans-serif;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 10%;
+  padding-bottom: 10%;
+  padding-top: 10%;
+  overflow: hidden;
+}
+
+.half-width img {
+  padding-bottom: 5px;
+  width: 50%;
+}
+
+.add-border {
+  border-left: 5px solid orangered;
+  padding-left: 4px;
+}
+
+.link-button {
+  text-decoration: none;
+  background-color: tomato;
+  padding: 10px 40px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+}
